@@ -53,15 +53,10 @@ This Power BI project analyzes the factors leading to loan defaults based on a f
 
 ---
 
-## 📌 Author
-
-- **K Kusuma**
-- B.Tech Final Year | Siddharth Institute of Engineering and Technology
-- Skills: Power BI | Excel | SQL | Python | Data Cleaning & Visualization
+## 📌 Skills
+-  Power BI | Excel | Data Cleaning & Visualization
 
 ---
 
-## 📬 Contact
-
-📧 koparlakusuma@gmail.com  
-📍 Puttur, India
+## Goal
+- To Support Better lending decisions by uncovering patterns in borrower behavior.
