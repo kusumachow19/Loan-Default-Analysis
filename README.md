@@ -47,14 +47,6 @@ This Power BI project analyzes the factors leading to loan defaults based on a f
 
 ---
 
-## 📷 Screenshot
-
-*(Optional – Replace this section with your actual image)*
-
-![Loan Default Dashboard](Dashboard_Screenshot.jpg)
-
----
-
 ## 📌 Skills
 -  Power BI | Excel | Data Cleaning & Visualization
 
