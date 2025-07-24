@@ -1,0 +1,67 @@
+
+# 📊 Loan Default Analysis (Power BI Project)
+
+This Power BI project analyzes the factors leading to loan defaults based on a fictional bank dataset. The goal is to understand customer behavior and improve loan policies.
+
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
+## 📁 Files Included
+
+- **Loan_Default-copy.pbix**: Power BI dashboard file.
+- **Loan_default.xlsx**: Excel dataset used for analysis.
+- **dashboard_preview.png**: Visual preview of the dashboard (optional).
+
+---
+
+## 🔍 Project Objectives
+
+- Analyze demographic and financial patterns affecting loan defaults.
+- Identify high-risk borrower profiles.
+- Visualize key metrics such as:
+  - Default Rate by Loan Purpose
+  - Customer Credit Score Distribution
+  - Loan Approval vs Rejection
+  - Employment & Income Relationships
+
+---
+
+## 📊 Key Power BI Features Used
+
+- Custom visuals and slicers
+- Data cleaning in Power Query
+- DAX measures for dynamic calculations
+- Conditional formatting & tooltips
+
+---
+
+## 🛠️ How to Use
+
+1. Download the `.pbix` file.
+2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
+3. Ensure the dataset file (`Loan_default.xlsx`) is in the same directory.
+4. If needed, refresh the data and re-link the Excel file.
+
+---
+
+## 📷 Screenshot
+
+*(Optional – Replace this section with your actual image)*
+
+![Loan Default Dashboard](dashboard_preview.png)
+
+---
+
+## 📌 Author
+
+- **K Kusuma**
+- B.Tech Final Year | Siddharth Institute of Engineering and Technology
+- Skills: Power BI | Excel | SQL | Python | Data Cleaning & Visualization
+
+---
+
+## 📬 Contact
+
+📧 koparlakusuma@gmail.com  
+📍 Puttur, India
