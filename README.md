@@ -3,8 +3,7 @@
 
 This Power BI project analyzes the factors leading to loan defaults based on a fictional bank dataset. The goal is to understand customer behavior and improve loan policies.
 
-![Dashboard Preview](Dashboard_Screenshot.jpg)
-<img src="Dashboard_Screenshot.jpg" alt="Dashboard Preview" width="600"/>
+<img src="Dashboard_Screenshot.jpg" alt="Dashboard Preview" width="400"/>
 
 
 
